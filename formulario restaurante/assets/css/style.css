@@ -1,0 +1,16 @@
+body{
+    background-image: url(../img/interior-restaurante.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    background-color: aqua;
+    border: 2px solid black;
+    max-width: 400px;
+    text-align: center;
+}
+
+select{
+    color: red;
+}
